@@ -1,7 +1,8 @@
 ##FAT12 Various Modes
 
 Following the re-format, and zero-ing of the 1.44" disk, the following images
-were created using DD on linux with the following command:
+were created with the floppy disk mounted, using DD on linux with the following 
+command:
 
     dd if=/dev/sdb of=forensic-sandbox/fat12-various-modes/<img name>
 
