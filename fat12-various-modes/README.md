@@ -1,4 +1,4 @@
-##FAT12 Various Modes
+## FAT12 Various Modes
 
 Following the re-format, and zero-ing of the 1.44" disk, the following images
 were created with the floppy disk mounted, using DD on linux with the following 
@@ -17,6 +17,6 @@ The impact on indexes and so forth.
 * fs-manually-deleted-files.img
 * fs-all-files-rewritten.img
 
-###FAT12 Spec Document
+### FAT12 Spec Document
 
 I do not hold the license for this, it comes from the Rose-Hulman Institute of Technology. 
