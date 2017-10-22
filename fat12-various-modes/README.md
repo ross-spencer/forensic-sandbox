@@ -20,3 +20,5 @@ The impact on indexes and so forth.
 ### FAT12 Spec Document
 
 I do not hold the license for this, it comes from the Rose-Hulman Institute of Technology. 
+
+http://www.disc.ua.es/~gil/FAT12Description.pdf
